@@ -5,7 +5,7 @@ Credit me if you would like too, but i do not require it. I am happy for it to h
 
 GitHub:
 Twitter: twitter.com/robert_mizen
-YouTube:
+YouTube: youtube.com/c/RobertMizen
 Patreon:
 
 # External Links (Fonts, Styles and Scripts etc)
