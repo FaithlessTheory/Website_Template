@@ -3,9 +3,9 @@
 # Use Agreement:
 Credit me if you would like too, but i do not require it. I am happy for it to help people. If you would like to support this/me or my work then credit this template or check out my GitHub, Twitter or YouTube. I am also on Patreon.
 
-GitHub:
-Twitter: twitter.com/robert_mizen
-YouTube: youtube.com/c/RobertMizen
+GitHub: https://github.com/FaithlessTheory
+Twitter: https://twitter.com/robert_mizen
+YouTube: https://youtube.com/c/RobertMizen
 Patreon:
 
 # External Links (Fonts, Styles and Scripts etc)
