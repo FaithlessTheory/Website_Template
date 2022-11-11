@@ -1,12 +1,13 @@
 # FOSS Baby. Just use this as you feel like.
 
 # Use Agreement:
-Credit me if you would like too, but i do not require it. I am happy for it to help people. If you would like to support this/me or my work then credit this template or check out my GitHub, Twitter or YouTube. I am also on Patreon.
+Credit me if you would like too, but i do not require it. I am happy for it to help people. If you would like to support this/me or my work then credit this template or check out my GitHub, Twitter, Mastodon or YouTube. I am also on Patreon.
 
 GitHub: https://github.com/FaithlessTheory
 Twitter: https://twitter.com/robert_mizen
 YouTube: https://youtube.com/c/RobertMizen
 Patreon:
+Mastodon: https://fosstodon.org/web/@robertmizen
 
 # External Links (Fonts, Styles and Scripts etc)
 Links included in the template (for example to bootstrap and other external scripts have their own user agreements and license and as such consult with those if you intend to use them.) I intend to keep this updated as best i can (regarding the use of external scripts and styles) but to avoid issues ensure you check to make sure you comply with those bits and bobs.
@@ -18,7 +19,7 @@ I do not provide any "support" for the template. At least not in the traditonal 
 
 Prefered Method Order for Support
 1 - GitHub (Issue, Bugs and Comments)
-2 - Twitter (Tweet @robertmizen)
+2 - Twitter or Mastodon (Tweet @robertmizen or https://fosstodon.org/web/@robertmizen)
 3 - YouTube (Comment on a relevant video)
 
 Enjoy the template and if you have some ideas on improvements, use one of the above methods or visit the trello board:
