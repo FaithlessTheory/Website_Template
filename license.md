@@ -6,7 +6,7 @@ Credit me if you would like too, but i do not require it. I am happy for it to h
 GitHub: https://github.com/FaithlessTheory
 Twitter: https://twitter.com/robert_mizen
 YouTube: https://youtube.com/c/RobertMizen
-Patreon:
+Patreon: https://patreon.com/robert_mizen
 Mastodon: https://fosstodon.org/web/@robertmizen
 
 # External Links (Fonts, Styles and Scripts etc)
